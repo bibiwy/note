@@ -5,3 +5,4 @@ Hadoop.docx filter=lfs diff=lfs merge=lfs -text
 49-3[[:space:]]Hadoop（MapReduce）.docx filter=lfs diff=lfs merge=lfs -text
 50[[:space:]]Hive.doc filter=lfs diff=lfs merge=lfs -text
 51[[:space:]]Flume.docx filter=lfs diff=lfs merge=lfs -text
+52[[:space:]]python.doc filter=lfs diff=lfs merge=lfs -text
